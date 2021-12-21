@@ -1,7 +1,7 @@
 # cat_photobook
+- github page https://rightkingleftking.github.io/cat_photobook/
 - vanilla js를 이용한 고양이 사진첩 앱
-- 프로그래머스 과제관 
-https://programmers.co.kr/skill_check_assignments/100
+- 프로그래머스 과제관의 과제를 구현한 어플리케이션(과제 출처 : https://programmers.co.kr/skill_check_assignments/100)
 
 ## 구현된 옵션 사항
 - Breadcrumb에 렌더링 된 경로 목록의 특정 아이템을 클릭하면, 해당 경로로 이동하도록 처리합니다. 
