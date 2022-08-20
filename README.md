@@ -1,5 +1,5 @@
 # cat_photobook
-- github page https://rightkingleftking.github.io/cat_photobook/
+- github page https://ggsno.github.io/cat_photobook/
 - vanilla js를 이용한 고양이 사진첩 앱
 - 프로그래머스 과제관의 과제를 구현한 어플리케이션(과제 출처 : https://programmers.co.kr/skill_check_assignments/100)
 
